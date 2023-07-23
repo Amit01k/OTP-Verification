@@ -4,7 +4,7 @@
 - Node.js
 - Express.js
 - MongoDB (Database)
-- Twilio (send otp on mobile number)
+- Twilio (send OTP on mobile number)
 - Moongoose
 
 ## Setup
