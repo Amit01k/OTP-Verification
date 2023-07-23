@@ -1,5 +1,12 @@
 ## Project - Appointment_booking
 
+## Technologies applied 
+- Node.js
+- Express.js
+- MongoDB (Database)
+- Twilio (send otp on mobile number)
+- Moongoose
+
 ## Setup
 
 ### Clone repo
@@ -21,7 +28,7 @@ $ npm install
 - Note Add Mongo DB string to connect with database
 - Open appointment_booing folder>index.js file>enter mongoDB connection String
 {
-    mongoose.connect('enter your mongo DB connection string', {
+    mongoose.connect(process.env.DATABASE||'enter your mongo DB connection string', {
     useNewUrlParser: true,})
 }
 ```
