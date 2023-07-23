@@ -4,12 +4,12 @@
 
 ### Clone repo
 ```sh
-$ git clone https://github.com/Amit01k/Appointment_booking.git
+$ git clone https://github.com/Amit01k/OTP-Verification.git
 ```
 
 ### Open Appointment_booking Folder
 ```sh
-$ cd Appointment_booking
+$ cd OTP-Verification
 ```
 ### Install All Dependencies
 ```sh
