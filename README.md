@@ -14,7 +14,7 @@
 $ git clone https://github.com/Amit01k/OTP-Verification.git
 ```
 
-### Open Appointment_booking Folder
+### Open OTP-Verification Folder
 ```sh
 $ cd OTP-Verification
 ```
