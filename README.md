@@ -5,7 +5,7 @@
 - Express.js
 - MongoDB (Database)
 - Twilio (send OTP on mobile number)
-- Moongoose
+- Mongoose
 
 ## Setup
 
@@ -26,7 +26,7 @@ $ npm install
 ### Add Mongo DB String 
 ```yaml
 - Note Add Mongo DB string to connect with database
-- Open appointment_booing folder>index.js file>enter mongoDB connection String
+- Open OTP-Verification folder>index.js file>enter mongoDB connection String
 {
     mongoose.connect(process.env.DATABASE||'enter your mongo DB connection string', {
     useNewUrlParser: true,})
