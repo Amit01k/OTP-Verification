@@ -1,4 +1,4 @@
-## Project - Appointment_booking
+## Project - OTP-Verification
 
 ## Technologies applied 
 - Node.js
